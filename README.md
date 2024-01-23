@@ -10,12 +10,14 @@ Descargar la imagen armbian
 | opizero3 1GB和2GB内存版本 |debian12 server | [下载链接](https://github.com/leeboby/armbian-images/releases/download/opizero3/Armbian_23.08.0-trunk_Orangepizero3_bookworm_current_6.1.31-1GB-2GB.img.xz) |
 
 ## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
-Instrucciones de la placa de desarrollo de versión de memoria OPi Zero3 de 1,5 gb y 4 g
+Instrucciones de la placa de desarrollo de versión de memoria OPi Zero3 de 1,5 gb y 4 g.
+OPi Zero3 1.5gb 4g memory version development board instructions.
 - https://youtu.be/11LsFyBuXEI?si=H9oBLWM-UfIk9aEk
 
 - 1.5gb内存的开发板需要更新下u-boot才能正常使用
 - 4gb内存的开发板需要更新下u-boot和内核的dtb文件才能正常使用
 
+Para conocer el método de actualización, consul
 更新方法请参考：[更新opizero3 u-boot和dtb的方法](https://github.com/leeboby/opizero3-uboot-dtb) 
 
 ---
