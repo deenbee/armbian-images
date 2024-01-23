@@ -21,7 +21,7 @@ OPi Zero3 1.5gb 4g memory version development board instructions via Youtube:
 - 1.5gb La placa de desarrollo con memoria de 1,5 GB necesita actualizar u-boot antes de poder usarse normalmente.
 - 4gb La placa de desarrollo con memoria de 4 GB necesita actualizar los archivos u-boot y kernel dtb antes de poder usarse normalmente.
 
-Consulte el método de actualización：[更新opizero3 u-boot和dtb的方法](https://github.com/leeboby/opizero3-uboot-dtb) 
+Consulte el método de actualización：[opizero3 u-boot dtb files](https://github.com/deenbee/opizero3-uboot-dtb) 
 
 ---
 ![armbian桌面壁纸](https://github.com/leeboby/armbian-images/blob/main/pictures/1.png)
