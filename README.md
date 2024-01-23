@@ -11,6 +11,8 @@ Descargar la imagen armbian
 
 ## OPi Zero3 1.5gb和4g内存版本的开发板使用说明
 Instrucciones de la placa de desarrollo de versión de memoria OPi Zero3 de 1,5 gb y 4 g
+- https://youtu.be/11LsFyBuXEI?si=H9oBLWM-UfIk9aEk
+
 - 1.5gb内存的开发板需要更新下u-boot才能正常使用
 - 4gb内存的开发板需要更新下u-boot和内核的dtb文件才能正常使用
 
